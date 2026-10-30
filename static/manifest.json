@@ -1,0 +1,16 @@
+{
+  "name": "Kundenapp Le Marché",
+  "short_name": "LE MARCHÉ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#6e1c2c",
+  "theme_color": "#6e1c2c",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
